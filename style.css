@@ -11,6 +11,13 @@
   --bg: url(./assets/bg-yellow.svg);
 }
 
+body.brazil{
+  --card-title-border-colour: #047C3F;
+  --card-color-primary: #F7DD43;
+  --card-bg-colour:#1A1F1B;
+  --bg: url(./assets/bg-brazil.jpg);
+}
+
 body.blue {
   --card-title-border-colour: #338Af3;
   --card-color-primary:  #338Af3;
